@@ -1,3 +1,4 @@
 ---
-post:
+layout: page
+title: cv
 ----

@@ -7,7 +7,7 @@ entries:
   #      url: https://gumroad.com/scottd
       - title: contact (email)
         url: mailto:lemurodigital@protonmail.com
-      - title: instagram (pics)
-        url: https://instagram.com/lemurodigital
+   #   - title: instagram (pics)
+   #    url: https://instagram.com/lemurodigital
       - title: cv
         url: /cv

@@ -1,6 +1,6 @@
 title: scottd # name of the site
 author: scott duplessis # name of site's author
-email: lemurodigital@protonmail.com # email of site's author
+email: lemurodigital@protonmail.com # emai l of site's author
 url: https://lemuro.digital # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)

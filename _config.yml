@@ -4,7 +4,7 @@ email: lemurodigital@protonmail.com # emai l of site's author
 url: https://lemuro.digital # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  Writer, doomsday prophet, data hoarder, fledging Francophone -- see cv.
+  Writer, doomsday prophet, data hoarder, working on: web dev, french, open source, based in Iowa City, IA.
 
 permalink: /:slug.html
 

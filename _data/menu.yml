@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
     entries:
-      - title: owner and operator: fossguides.co
+      - title: "owner and operator: fossguides.co"
         url: https://fossguides.co
       - title: working on: courbet digital
       - title: based in: iowa city, ia

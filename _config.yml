@@ -4,7 +4,7 @@ email: lemurodigital@protonmail.com # emai l of site's author
 url: https://lemuro.digital # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
- based in Iowa City, IA.
+ web dev hobbyist based in Iowa City, IA. interested in open source, art history, crypto, french, data hoarding, philosophy, ecommerce, & the future. working on:
 
 permalink: /:slug.html
 

@@ -2,13 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
     entries:
-      - title: "owner and operator: fossguides.co"
+      - title: running fossguides.co
         url: https://fossguides.co
-      - title: working on: courbet digital
-      - title: based in: iowa city, ia
+      - title: working on courbet digital
+      - title: based in iowa city, ia
       - title: contact (email)
         url: mailto:scott@lemuro.digital
-      - title: open source: OpenArt
+      - title: OpenArt
         url: https://github.com/lemurodigital/open-art
-     ## - title: cv
-     ##   url: /cv
